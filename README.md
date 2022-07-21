@@ -1,1 +1,1 @@
-# ibm-data-science-capstone
+# IBM data science course project  
