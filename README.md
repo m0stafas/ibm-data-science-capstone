@@ -1,1 +1,1 @@
-# IBM data science course project  
+# IBM data science capstone course final project  
